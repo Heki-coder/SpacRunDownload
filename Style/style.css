@@ -74,3 +74,16 @@
     right: 10%;
     bottom: 1vh;
 }
+#EXE {
+    position: absolute;
+    left: 50%;
+    top:40%;
+    transform: translate(-50%, -50%);
+    background-color: blue;
+    border: none;
+    border-radius: 2vh;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 2vh;
+    font-size: large;
+}
